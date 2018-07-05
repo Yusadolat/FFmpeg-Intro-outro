@@ -2,8 +2,8 @@
 
 ## Prerequisite
 
-⋅⋅* FFmpeg You don't have it installed yet? [Grab one here](https://www.ffmpeg.org/download.html).
-    Root Access.
+* FFmpeg You don't have it installed yet? [Grab one here](https://www.ffmpeg.org/download.html).
+* Root Access.
 
 ### Usage
 
