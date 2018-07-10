@@ -15,3 +15,4 @@ cat intro1.mp3  lecture1.mp3 outro1.mp3 > merge_all.mp3
 
 #scale final mp3 to v 2
 ffmpeg -i merge_all.mp3 -qscale:v 2 output.mp3
+
